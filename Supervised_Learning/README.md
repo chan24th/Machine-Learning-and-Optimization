@@ -1,5 +1,7 @@
 # Supervised Learning 
 
+![alt text](https://i.ytimg.com/vi/hsDAxSi-H-s/hqdefault.jpg)
+
 ## Clarification:
 ---
 Supervised learning is defined by its use of labeled datasets to train algorithms that classify data or predict's outcomes accurately. As input data is fed into the model, it adjusts its weights until the model has been fitted appropriately, which occurs as part of the cross validation process. Supervised learning helps organizations solve for a variety of real-world problems at scale, such as classifying spam in a separate folder from your inbox.

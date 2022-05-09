@@ -1,5 +1,7 @@
 # Unsupervised Learning 
 
+![alt text](http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/11/Unsupervised-Learning-blog.png)
+
 ## Clarification:
 ---
 Unsupervised Learning is a machine learning technique in which the users does not need to observe and direct the model. Instead, it allows the model to work on its own to discover patterns and information that was previously undetected. Unsupervised Learning mainly deals with the unlabelled data unlike its counter part, Supervised Learning. 

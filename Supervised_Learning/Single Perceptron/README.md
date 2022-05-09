@@ -3,20 +3,7 @@ By: Channing Vernon
 
 ## Purpose:
 ---
-I will be covering the Single Perceptron algorithm on the "seeds" dataset from Kaggle.
-
-## Data: 
----
-The seeds data contains ..., and 8 columns. Link to dataset is: [link](https://www.kaggle.com/jmcaro/wheat-seedsuci)
-
-- Area 
-- Perimeter
-- Compactness
-- Kernel.Length
-- Kernel.Width 
-- Asymmetry.Coeff
-- Kernel.Groove
-- Type
+I will be covering the Single Perceptron algorithm on my own created data using the "make.blobs" from sklearn.
 
 ## Libraries:
 ---
